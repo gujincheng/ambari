@@ -411,7 +411,6 @@
                         </source>
                       </sources>
                     </mapping>
-                    </mapping>
                     <mapping>
                       <directory>/usr/lib/ambari-metrics-kafka-sink</directory>
                       <sources>
