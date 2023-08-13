@@ -1,0 +1,4 @@
+org/apache/ambari/view/NoSuchResourceExceptionTest.class
+org/apache/ambari/view/ViewXmlTest.class
+org/apache/ambari/view/ResourceAlreadyExistsExceptionTest.class
+org/apache/ambari/view/UnsupportedPropertyExceptionTest.class

@@ -643,7 +643,7 @@ class HdfsResourceProvider(Provider):
     else:
       path = path
       
-    return re.sub("[/]+", "/", path)
+    return re.sub("[/]+", "/", path).replace(" ", "%20")
 
   @staticmethod
   def get_ignored_resources_list(hdfs_resource_ignore_file):

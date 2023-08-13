@@ -1,0 +1,4 @@
+/root/code/bigtop/build/ambari/rpm/BUILD/apache-ambari-2.7.5-src/ambari-views/src/test/java/org/apache/ambari/view/NoSuchResourceExceptionTest.java
+/root/code/bigtop/build/ambari/rpm/BUILD/apache-ambari-2.7.5-src/ambari-views/src/test/java/org/apache/ambari/view/ResourceAlreadyExistsExceptionTest.java
+/root/code/bigtop/build/ambari/rpm/BUILD/apache-ambari-2.7.5-src/ambari-views/src/test/java/org/apache/ambari/view/ViewXmlTest.java
+/root/code/bigtop/build/ambari/rpm/BUILD/apache-ambari-2.7.5-src/ambari-views/src/test/java/org/apache/ambari/view/UnsupportedPropertyExceptionTest.java

@@ -25,6 +25,7 @@
         "extends" : "redhat",
         "distro": [
           "redhat-ppc",
+          "fedora-ppc",
           "centos-ppc"
         ],
         "versions": [
@@ -51,9 +52,31 @@
           9
         ]
       },
+      "debian-ppc": {
+        "extends" : "debian",
+        "distro": [
+          "debian-ppc"
+        ],
+        "versions": [
+          7,
+          9
+        ]
+      },
       "ubuntu": {
         "distro": [
           "ubuntu"
+        ],
+        "versions": [
+          12,
+          14,
+          16,
+          18
+        ]
+      },
+      "ubuntu-ppc": {
+        "extends" : "ubuntu",
+        "distro": [
+          "ubuntu-ppc"
         ],
         "versions": [
           12,
